@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,400;0,500;1,400;1,600&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+      
+@layer base{
+    body{
+        /* @apply mx-auto max-w-screen-2xl scroll-smooth; */
+    }
+}
+/* 
+.profile-image {
+    
+    border-radius: 50%;
+    
+  }
+
+  .hr-style {
+    border: 1px solid; 
+    width: 100%; 
+    margin: 10px auto;
+    color: gray;
+  }
+
+  .text-3xl{
+    font-size:1.5rem;
+    margin-top:0.5rem;
+  }
+
+  .text-gray-500{
+    margin-left:0.5rem;
+  }
+
+  .hr-style{
+    margin:0.5rem 0;
+  }
+
+  .sticky.top-48{
+    position:relative;
+    top:auto;
+    left:auto;
+  }
+
+
+@media (max-width: 1024px) {
+
+  .flex-col {
+    flex-direction: column;
+  }
+
+  .lg\:flex-row {
+    flex-direction: row;
+  }
+
+
+  .absolute.left-2/4 {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
+
+
+@media (max-width: 640px) {
+  .flex {
+    flex-direction: column;
+  }
+
+  .lg\:flex-col {
+    flex-direction: column;
+  }
+
+  .lg\:items-center {
+    align-items: center;
+  }
+
+
+  .profile-image {
+    width: 100px;
+    height: 100px;
+  }
+
+  .ml-80 {
+    margin-left: 0.5rem;
+  }
+
+  
+  .mr-auto {
+    margin-right: auto;
+  }
+
+  .w-40 {
+    width: 8rem;
+  }
+
+ 
+  .mx-auto {
+    margin: 0 auto;
+  }
+
+  .ml-16 {
+    margin-left: 1rem;
+  }
+
+
+  .border.px-2 {
+    padding: 0.2rem;
+  }
+}
+
+.hr-light {
+  border-color: #e1e1e1; 
+}
+
+.custom-id-text {
+  display: flex;
+  align-items: center;
+  
+}
+
+.custom-id-text p {
+  white-space: nowrap;
+}
+
+
+
+
+
+ */
